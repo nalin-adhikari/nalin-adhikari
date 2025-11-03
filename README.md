@@ -8,6 +8,14 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at chatwithnalin@gmail.com or can visit my [webpage](https://nalin.com.np) ! I'll try to respond as soon as I can.
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nalin-adhikari/nalin-adhikari/refs/heads/master/assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nalin-adhikari/nalin-adhikari/refs/heads/master/assets/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nalin-adhikari/nalin-adhikari/refs/heads/master/assets/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <img alt="Night Coding" src="assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
